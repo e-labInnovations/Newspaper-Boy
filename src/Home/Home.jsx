@@ -8,6 +8,7 @@ import {
   IconButton,
   Typography,
 } from '@material-ui/core';
+import { AccessAlarm } from '@material-ui/icons';
 
 
 const Home = () => {
