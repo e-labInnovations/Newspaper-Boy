@@ -1,7 +1,0 @@
-{
-  "name": "Newspaper Boy",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
